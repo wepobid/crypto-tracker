@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/aleksandrakaminska/Desktop/cryptoTracker/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
-  /Users/aleksandrakaminska/Desktop/cryptoTracker/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
+  /Users/aleksandrakaminska/Desktop/crypto-tracker/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
+  /Users/aleksandrakaminska/Desktop/crypto-tracker/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
