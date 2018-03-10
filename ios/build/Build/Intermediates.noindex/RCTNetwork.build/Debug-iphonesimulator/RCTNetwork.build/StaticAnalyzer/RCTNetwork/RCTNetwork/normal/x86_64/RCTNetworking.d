@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/node_modules/react-native/Libraries/Network/RCTNetworking.mm \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/aleksandrakaminska/Desktop/cryptoTracker/node_modules/react-native/Libraries/Network/RCTHTTPRequestHandler.h
